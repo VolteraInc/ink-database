@@ -6,11 +6,23 @@
   "useBy": "2018-07-11",
   "storage": "4°C – 10°C",
   "description": "\n    Standard solder paste for use with both pre­fabbed and V­-One-printed PCBs\n  ",
-  "label": { "type": "SOLDER PASTE", "color": "#ff770b" },
+  "label": {
+    "type": "SOLDER PASTE",
+    "color": "#ff770b"
+  },
   "heatingProfile": [
-    { "temperature": 140, "duration": 45 },
-    { "temperature": 190, "duration": 30 },
-    { "temperature": 60, "duration": 1 }
+    {
+      "temperature": 140,
+      "duration": 45
+    },
+    {
+      "temperature": 190,
+      "duration": 30
+    },
+    {
+      "temperature": 60,
+      "duration": 1
+    }
   ],
   "settings": {
     "probing": {
@@ -41,8 +53,8 @@
         "min": 0.01,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.10,
-        "value": 0.10
+        "defaultValue": 0.1,
+        "value": 0.1
       },
       "feedrate": {
         "min": 0,

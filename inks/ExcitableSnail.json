@@ -6,10 +6,19 @@
   "useBy": "2018-08-13",
   "storage": "4°C – 10°C",
   "description": "\n   Conductive silver ink for printing PCB traces and pads.\n   When soldering to this ink, use flux and the supplied Voltera solder.\n   Other solder alloys may cause silver scavenging.\n  ",
-  "label": { "type": "CONDUCTOR", "color": "#79ce00" },
+  "label": {
+    "type": "CONDUCTOR",
+    "color": "#79ce00"
+  },
   "heatingProfile": [
-    { "temperature": 240, "duration": 1800 },
-    { "temperature": 60, "duration": 1 }
+    {
+      "temperature": 240,
+      "duration": 1800
+    },
+    {
+      "temperature": 60,
+      "duration": 1
+    }
   ],
   "settings": {
     "probing": {

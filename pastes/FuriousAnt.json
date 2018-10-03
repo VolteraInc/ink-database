@@ -6,11 +6,23 @@
   "useBy": "2019-02-01",
   "storage": "4°C – 10°C",
   "description": "\n    Standard T5 solder paste for use with both pre­fabbed and\n    V­-One-printed PCBs. The smaller particle size (T5) improves\n    dispensing and reduces nozzle clogging.\n  ",
-  "label": { "type": "SOLDER PASTE T5", "color": "#ff770b" },
+  "label": {
+    "type": "SOLDER PASTE T5",
+    "color": "#ff770b"
+  },
   "heatingProfile": [
-    { "temperature": 140, "duration": 45 },
-    { "temperature": 190, "duration": 30 },
-    { "temperature": 60, "duration": 1 }
+    {
+      "temperature": 140,
+      "duration": 45
+    },
+    {
+      "temperature": 190,
+      "duration": 30
+    },
+    {
+      "temperature": 60,
+      "duration": 1
+    }
   ],
   "settings": {
     "probing": {

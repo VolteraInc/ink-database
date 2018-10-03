@@ -6,11 +6,23 @@
   "useBy": "2018-01-31",
   "storage": "4°C – 10°C",
   "description": "\n    An Sn63 formulation that offers superior performance\n    on prefabbed boards with a lead-based HASL finish.\n    This paste is not compatable with V-One-printed PCBs.\n  ",
-  "label": { "type": "Sn63 SOLDER PASTE", "color": "#4778b4" },
+  "label": {
+    "type": "Sn63 SOLDER PASTE",
+    "color": "#4778b4"
+  },
   "heatingProfile": [
-    { "temperature": 180, "duration": 45 },
-    { "temperature": 220, "duration": 30 },
-    { "temperature": 60, "duration": 1 }
+    {
+      "temperature": 180,
+      "duration": 45
+    },
+    {
+      "temperature": 220,
+      "duration": 30
+    },
+    {
+      "temperature": 60,
+      "duration": 1
+    }
   ],
   "settings": {
     "probing": {

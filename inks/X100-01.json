@@ -6,10 +6,19 @@
   "useBy": "unknown",
   "storage": "4°C – 10°C",
   "description": "\n    An experimental ink formulation that offers superior soldering,\n    especially wetting. However, it is more brittle and can fracture\n    when pressing rivets. See website for instructions on use.\n  ",
-  "label": { "type": "EXPERIMENTAL", "color": "#f250bf" },
+  "label": {
+    "type": "EXPERIMENTAL",
+    "color": "#f250bf"
+  },
   "heatingProfile": [
-    { "temperature": 240, "duration": 1800 },
-    { "temperature": 60, "duration": 1 }
+    {
+      "temperature": 240,
+      "duration": 1800
+    },
+    {
+      "temperature": 60,
+      "duration": 1
+    }
   ],
   "settings": {
     "probing": {
