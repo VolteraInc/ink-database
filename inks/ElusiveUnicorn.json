@@ -76,13 +76,13 @@
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.3
+        "defaultValue": 0.1
       },
       "softStop": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.5
+        "defaultValue": 0.25
       },
       "rheologicalSetpoint": {
         "min": 0,
