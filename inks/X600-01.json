@@ -1,11 +1,11 @@
 {
-  "id": "Voltera/X100-02",
+  "id": "Voltera/X600-01",
   "type": "Experimental Ink",
-  "name": "X100-02",
+  "name": "X600-01",
   "organization": "Voltera",
   "useBy": "unknown",
   "storage": "4°C – 10°C",
-  "description": "\n    Silver-coated copper, SAC-solderable, not REACH-compliant   \n  ",
+  "description": "\n    Flexible, solderable, silver-based conductive ink, no riveting   \n  ",
   "label": {
     "type": "EXPERIMENTAL",
     "color": "#f250bf"
@@ -70,7 +70,7 @@
         "min": 0.05,
         "max": 2,
         "precision": 2,
-        "defaultValue": 0.4
+        "defaultValue": 0.2
       },
       "softStart": {
         "min": 0,

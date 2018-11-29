@@ -1,11 +1,11 @@
 {
-  "id": "Voltera/X100-04",
+  "id": "Voltera/X200-01",
   "type": "Experimental Ink",
-  "name": "X100-04",
+  "name": "X200-01",
   "organization": "Voltera",
   "useBy": "unknown",
   "storage": "4°C – 10°C",
-  "description": "\n    Nano-flake silver ink, high conductivity / solderability, no riveting  \n  ",
+  "description": "\n    Silver-coated copper, SAC-solderable, not REACH-compliant   \n  ",
   "label": {
     "type": "EXPERIMENTAL",
     "color": "#f250bf"
@@ -70,7 +70,7 @@
         "min": 0.05,
         "max": 2,
         "precision": 2,
-        "defaultValue": 0.2
+        "defaultValue": 0.4
       },
       "softStart": {
         "min": 0,
