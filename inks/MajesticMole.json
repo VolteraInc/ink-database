@@ -1,23 +1,19 @@
 {
-  "id": "Voltera/WoozyWeevil",
-  "type": "Solder Paste",
-  "name": "WoozyWeevil",
+  "id": "Voltera/MajesticMole",
+  "type": "Flexible Conductive Ink",
+  "name": "MajesticMole",
   "organization": "Voltera",
-  "useBy": "2019-04-16",
+  "useBy": "2019-08-07",
   "storage": "4°C – 10°C",
-  "description": "\n    Standard solder paste for use with both pre­fabbed and V­-One-printed PCBs\n  ",
+  "description": "\n   Flexible conductive ink for Kapton (polyimide), polycarbonate and PET.\n   Solder joints will be brittle, use adhesive or epoxy to secure components.\n ",
   "label": {
-    "type": "SOLDER PASTE",
-    "color": "#ff770b"
+    "type": "FLEX CONDUCTOR",
+    "color": "#c10000"
   },
   "heatingProfile": [
     {
-      "temperature": 140,
-      "duration": 45
-    },
-    {
-      "temperature": 190,
-      "duration": 30
+      "temperature": 160,
+      "duration": 900
     },
     {
       "temperature": 60,
@@ -38,7 +34,7 @@
         "min": 1,
         "max": 9999,
         "precision": 0,
-        "defaultValue": 30
+        "defaultValue": 45
       },
       "tracePadPenetration": {
         "min": -5,
@@ -50,49 +46,49 @@
         "min": 0.01,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.1
+        "defaultValue": 0.08
       },
       "feedrate": {
         "min": 0,
-        "max": 900,
+        "max": 600,
         "precision": 0,
-        "defaultValue": 600
+        "defaultValue": 500
       },
       "passSpacing": {
         "min": 0.1,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.15
+        "defaultValue": 0.18
       },
       "antiString": {
         "min": 0.1,
         "max": 5,
         "precision": 1,
-        "defaultValue": 0.1
+        "defaultValue": 2
       },
       "kick": {
         "min": 0.05,
         "max": 2,
         "precision": 2,
-        "defaultValue": 0.3
+        "defaultValue": 0.4
       },
       "softStart": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.05
+        "defaultValue": 0.4
       },
       "softStop": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.05
+        "defaultValue": 0.4
       },
       "rheologicalSetpoint": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.22
+        "defaultValue": 0.18
       }
     }
   }

@@ -1,9 +1,9 @@
 {
-  "id": "Voltera/WoozyWeevil",
+  "id": "Voltera/CasualCricket",
   "type": "Solder Paste",
-  "name": "WoozyWeevil",
+  "name": "CasualCricket",
   "organization": "Voltera",
-  "useBy": "2019-04-16",
+  "useBy": "2019-08-05",
   "storage": "4°C – 10°C",
   "description": "\n    Standard solder paste for use with both pre­fabbed and V­-One-printed PCBs\n  ",
   "label": {
