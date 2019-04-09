@@ -1,13 +1,13 @@
 {
   "id": "Voltera/LucidLynx",
   "type": "Sn63 Solder Paste",
-  "name": "LucidLynx",
+  "name": "LucidLynx - T5",
   "organization": "Voltera",
   "useBy": "2019-12-16",
   "storage": "4°C – 10°C",
-  "description": "\n    An Sn63 formulation that offers superior performance\n    on prefabbed boards with a lead-based HASL finish.\n    This paste is not compatable with V-One-printed PCBs.\n  ",
+  "description": "\n    A T5, Sn63 formulation that offers superior performance\n    on prefabbed boards with a lead-based HASL finish. The\n    smaller particle size (T5) improves dispensing and reduces\n    nozzle clogging. This paste is not compatable with\n    V-One-printed PCBs.\n  ",
   "label": {
-    "type": "Sn63 SOLDER PASTE",
+    "type": "Sn63 SOLDER PASTE T5",
     "color": "#4778b4"
   },
   "heatingProfile": [
@@ -38,7 +38,7 @@
         "min": 1,
         "max": 9999,
         "precision": 0,
-        "defaultValue": 45
+        "defaultValue": 30
       },
       "tracePadPenetration": {
         "min": -5,
@@ -74,7 +74,7 @@
         "min": 0.05,
         "max": 2,
         "precision": 2,
-        "defaultValue": 0.3
+        "defaultValue": 0.4
       },
       "softStart": {
         "min": 0,
@@ -92,7 +92,7 @@
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.16
+        "defaultValue": 0.27
       }
     }
   }
