@@ -1,20 +1,23 @@
 {
-  "id": "Voltera/ElegantEel",
-  "type": "Flexible Conductive Ink",
-  "name": "ElegantEel",
+  "id": "Voltera/MuteMoth",
+  "type": "Solder Paste",
+  "name": "MuteMoth",
   "organization": "Voltera",
-  "useBy": "2020-02-13",
+  "useBy": "2019-12-05",
   "storage": "4°C – 10°C",
-  "materialName": "Flex 2",
-  "description": "\n   Flexible conductive ink for Kapton (polyimide), polycarbonate and PET.\n   Solder joints will be brittle, use adhesive or epoxy to secure components.\n ",
+  "description": "\n    Standard solder paste for use with both pre­fabbed and V­-One-printed PCBs\n  ",
   "label": {
-    "type": "FLEX CONDUCTOR",
-    "color": "#c10000"
+    "type": "SOLDER PASTE",
+    "color": "#ff770b"
   },
   "heatingProfile": [
     {
-      "temperature": 210,
-      "duration": 900
+      "temperature": 140,
+      "duration": 45
+    },
+    {
+      "temperature": 190,
+      "duration": 30
     },
     {
       "temperature": 60,
@@ -35,7 +38,7 @@
         "min": 1,
         "max": 9999,
         "precision": 0,
-        "defaultValue": 50
+        "defaultValue": 30
       },
       "tracePadPenetration": {
         "min": -5,
@@ -47,13 +50,13 @@
         "min": 0.01,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.08
+        "defaultValue": 0.1
       },
       "feedrate": {
         "min": 0,
-        "max": 600,
+        "max": 900,
         "precision": 0,
-        "defaultValue": 500
+        "defaultValue": 600
       },
       "passSpacing": {
         "min": 0.1,
@@ -71,25 +74,25 @@
         "min": 0.05,
         "max": 2,
         "precision": 2,
-        "defaultValue": 0.35
+        "defaultValue": 0.3
       },
       "softStart": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.1
+        "defaultValue": 0.05
       },
       "softStop": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.15
+        "defaultValue": 0.05
       },
       "rheologicalSetpoint": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.16
+        "defaultValue": 0.22
       }
     }
   }
