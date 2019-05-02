@@ -5,7 +5,7 @@
   "organization": "Voltera",
   "useBy": "2020-02-13",
   "storage": "4°C – 10°C",
-  "materialName": "Flex 2",
+  "material": "Flex 2",
   "description": "\n   Flexible conductive ink for Kapton (polyimide), polycarbonate and PET.\n   Solder joints will be brittle, use adhesive or epoxy to secure components.\n ",
   "label": {
     "type": "FLEX CONDUCTOR",
