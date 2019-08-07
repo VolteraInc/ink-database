@@ -5,9 +5,9 @@
   "organization": "Voltera",
   "useBy": "2019-04-16",
   "storage": "4°C – 10°C",
-  "description": "\n    Standard solder paste for use with both pre­fabbed and V­-One-printed PCBs\n  ",
+  "description": "\n    Standard T5 solder paste for use with both pre­fabbed and\n    V­-One-printed PCBs. The smaller particle size (T5) improves\n    dispensing and reduces nozzle clogging.\n  ",
   "label": {
-    "type": "SOLDER PASTE",
+    "type": "SOLDER PASTE T5",
     "color": "#ff770b"
   },
   "heatingProfile": [
@@ -50,7 +50,7 @@
         "min": 0.01,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.1
+        "defaultValue": 0.08
       },
       "feedrate": {
         "min": 0,
@@ -74,7 +74,7 @@
         "min": 0.05,
         "max": 2,
         "precision": 2,
-        "defaultValue": 0.3
+        "defaultValue": 0.4
       },
       "softStart": {
         "min": 0,
@@ -92,7 +92,7 @@
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.22
+        "defaultValue": 0.27
       }
     }
   }
