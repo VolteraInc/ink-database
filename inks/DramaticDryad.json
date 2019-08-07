@@ -3,7 +3,7 @@
   "type": "Conductive Ink",
   "name": "DramaticDryad",
   "organization": "Voltera",
-  "useBy": "2020-1-27",
+  "useBy": "2020-01-27",
   "storage": "4°C – 10°C",
   "description": "\n   Conductive silver ink for printing PCB traces and pads.\n   When soldering to this ink, use flux and the supplied Voltera solder.\n   Other solder alloys may cause silver scavenging.\n  ",
   "label": {
