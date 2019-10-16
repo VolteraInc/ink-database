@@ -1,9 +1,9 @@
 {
-  "id": "Voltera/OpulentOctopus",
+  "id": "Voltera/TriumphantTuna",
   "type": "Flexible Conductive Ink",
-  "name": "OpulentOctopus",
+  "name": "TriumphantTuna",
   "organization": "Voltera",
-  "useBy": "2020-02-04",
+  "useBy": "2020-07-17",
   "storage": "4°C – 10°C",
   "material": "Flex 2",
   "description": "\n   Flexible conductive ink for Kapton (polyimide), polycarbonate and PET.\n   Solder joints will be brittle, use adhesive or epoxy to secure components.\n ",
