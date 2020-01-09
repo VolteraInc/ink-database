@@ -47,7 +47,7 @@
         "min": 0.01,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.08
+        "defaultValue": 0.1
       },
       "feedrate": {
         "min": 0,
