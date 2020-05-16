@@ -14,7 +14,7 @@
   "heatingProfile": [
     {
       "temperature": 210,
-      "duration": 900
+      "duration": 1800
     },
     {
       "temperature": 60,
