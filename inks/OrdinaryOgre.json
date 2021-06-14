@@ -1,9 +1,9 @@
 {
-  "id": "Voltera/NiftyNaga",
+  "id": "Voltera/OrdinaryOgre",
   "type": "Conductive Ink",
-  "name": "NiftyNaga",
+  "name": "OrdinaryOgre",
   "organization": "Voltera",
-  "useBy": "2021-12-14",
+  "useBy": "2022-05-11",
   "storage": "4°C – 10°C",
   "description": "\n   Conductive silver ink for printing PCB traces and pads.\n   When soldering to this ink, use flux and the supplied Voltera solder.\n   Other solder alloys may cause silver scavenging.\n  ",
   "label": {
