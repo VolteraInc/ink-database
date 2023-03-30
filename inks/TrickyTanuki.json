@@ -1,6 +1,7 @@
 {
   "name": "TrickyTanuki",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "organization": "Voltera",
   "useBy": "2023-08-28",
   "storage": "4°C – 10°C",

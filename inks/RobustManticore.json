@@ -1,6 +1,7 @@
 {
   "id": "Voltera/RobustManticore",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "RobustManticore",
   "organization": "Voltera",
   "useBy": "2019-04-20",

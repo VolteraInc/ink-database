@@ -1,6 +1,7 @@
 {
   "id": "Voltera/CaptivatingChimera",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "CaptivatingChimera",
   "organization": "Voltera",
   "useBy": "2019-12-15",

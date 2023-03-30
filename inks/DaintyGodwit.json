@@ -1,6 +1,7 @@
 {
   "id": "Voltera/DaintyGodwit",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "DaintyGodwit",
   "organization": "Voltera",
   "useBy": "2019-02-23",

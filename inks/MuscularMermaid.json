@@ -1,6 +1,7 @@
 {
   "id": "Voltera/MuscularMermaid",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "MuscularMermaid",
   "organization": "Voltera",
   "useBy": "2021-10-05",

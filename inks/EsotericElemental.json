@@ -1,6 +1,7 @@
 {
   "id": "Voltera/EsotericElemental",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "EsotericElemental",
   "organization": "Voltera",
   "useBy": "2020-02-09",

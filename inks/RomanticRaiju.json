@@ -1,6 +1,7 @@
 {
   "name": "RomanticRaiju",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "organization": "Voltera",
   "useBy": "2023-01-25",
   "storage": "4°C – 10°C",

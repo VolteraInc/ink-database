@@ -1,6 +1,7 @@
 {
   "id": "Voltera/KinglyKraken",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "KinglyKraken",
   "organization": "Voltera",
   "useBy": "2021-02-02",

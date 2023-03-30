@@ -1,6 +1,7 @@
 {
   "id": "Voltera/AqueousSnake",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "AqueousSnake",
   "organization": "Voltera",
   "useBy": "2018-10-28",

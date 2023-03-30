@@ -70,7 +70,7 @@
                 "min": 0.05,
                 "max": 2,
                 "precision": 2,
-                "defaultValue": 0.28
+                "defaultValue": 0.3
             },
             "softStart": {
                 "min": 0,

@@ -1,6 +1,7 @@
 {
   "id": "Voltera/FestiveFerret",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "FestiveFerret",
   "organization": "Voltera",
   "useBy": "2018-06-03",

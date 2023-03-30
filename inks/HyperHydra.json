@@ -1,6 +1,7 @@
 {
   "id": "Voltera/HyperHydra",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "HyperHydra",
   "organization": "Voltera",
   "useBy": "2020-11-24",

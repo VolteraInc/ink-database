@@ -1,6 +1,7 @@
 {
   "name": "PerkyPegasus",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "organization": "Voltera",
   "useBy": "2022-08-04",
   "storage": "4°C – 10°C",
