@@ -1,5 +1,6 @@
 {
     "type": "Conductive Ink",
+    "material":"Cond 3",
     "name": "AffableAlien",
     "organization": "Voltera",
     "useBy": "2024-02-27",
