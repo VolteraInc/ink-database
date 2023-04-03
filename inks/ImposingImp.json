@@ -1,6 +1,7 @@
 {
   "id": "Voltera/ImposingImp",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "ImposingImp",
   "organization": "Voltera",
   "useBy": "2020-11-24",

@@ -1,6 +1,7 @@
 {
   "id": "Voltera/ExcitableSnail",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "ExcitableSnail",
   "organization": "Voltera",
   "useBy": "2018-08-13",

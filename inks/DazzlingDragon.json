@@ -1,6 +1,7 @@
 {
   "id": "Voltera/DazzlingDragon",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "DazzlingDragon",
   "organization": "Voltera",
   "useBy": "2019-06-01",

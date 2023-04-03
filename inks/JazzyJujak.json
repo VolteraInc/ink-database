@@ -1,6 +1,7 @@
 {
   "id": "Voltera/JazzyJujak",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "JazzyJujak",
   "organization": "Voltera",
   "useBy": "2020-07-31",

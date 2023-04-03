@@ -1,6 +1,7 @@
 {
   "id": "Voltera/DramaticDryad",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "DramaticDryad",
   "organization": "Voltera",
   "useBy": "2020-01-27",

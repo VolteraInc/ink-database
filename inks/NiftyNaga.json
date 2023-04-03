@@ -1,6 +1,7 @@
 {
   "id": "Voltera/NiftyNaga",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "NiftyNaga",
   "organization": "Voltera",
   "useBy": "2021-12-14",

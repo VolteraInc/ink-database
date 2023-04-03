@@ -1,6 +1,7 @@
 {
   "id": "Voltera/GiddyGiant",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "GiddyGiant",
   "organization": "Voltera",
   "useBy": "2020-07-17",

@@ -1,6 +1,7 @@
 {
   "id": "Voltera/FlashyFenrir",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "FlashyFenrir",
   "organization": "Voltera",
   "useBy": "2020-03-15",

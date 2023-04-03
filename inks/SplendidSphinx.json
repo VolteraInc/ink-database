@@ -1,6 +1,7 @@
 {
   "id": "Voltera/SplendidSphinx",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "SplendidSphinx",
   "organization": "Voltera",
   "useBy": "2019-05-05",

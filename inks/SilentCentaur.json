@@ -1,6 +1,7 @@
 {
   "id": "Voltera/SilentCentaur",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "SilentCentaur",
   "organization": "Voltera",
   "useBy": "2019-09-28",

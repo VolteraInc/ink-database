@@ -1,6 +1,7 @@
 {
   "id": "Voltera/DecisiveHamster",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "DecisiveHamster",
   "organization": "Voltera",
   "useBy": "2018-03-17",

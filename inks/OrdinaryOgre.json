@@ -1,6 +1,7 @@
 {
   "id": "Voltera/OrdinaryOgre",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "OrdinaryOgre",
   "organization": "Voltera",
   "useBy": "2022-05-11",

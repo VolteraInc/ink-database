@@ -1,6 +1,7 @@
 {
   "id": "Voltera/CrypticKappa",
   "type": "Conductive Ink",
+  "material": "Cond 1",
   "name": "CrypticKappa",
   "organization": "Voltera",
   "useBy": "2019-06-04",

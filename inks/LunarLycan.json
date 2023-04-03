@@ -1,6 +1,7 @@
 {
   "id": "Voltera/LunarLycan",
   "type": "Conductive Ink",
+  "material": "Cond 2",
   "name": "LunarLycan",
   "organization": "Voltera",
   "useBy": "2021-06-15",
