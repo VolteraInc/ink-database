@@ -18,6 +18,10 @@
         {
             "temperature": 120,
             "duration": 900
+        },
+        {
+            "temperature": 120,
+            "duration": 1
         }
     ],
     "settings": {
