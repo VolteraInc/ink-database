@@ -32,7 +32,7 @@
         "min": 0.01,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.14
+        "defaultValue": 0.08
       },
       "feedrate": { "min": 0, "max": 900, "precision": 0, "defaultValue": 600 },
       "passSpacing": {
@@ -47,14 +47,14 @@
         "precision": 1,
         "defaultValue": 0.1
       },
-      "kick": { "min": 0.05, "max": 2, "precision": 2, "defaultValue": 0.3 },
+      "kick": { "min": 0.05, "max": 2, "precision": 2, "defaultValue": 0.4 },
       "softStart": { "min": 0, "max": 1, "precision": 2, "defaultValue": 0.05 },
       "softStop": { "min": 0, "max": 1, "precision": 2, "defaultValue": 0.05 },
       "rheologicalSetpoint": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.22
+        "defaultValue": 0.27
       }
     }
   }
