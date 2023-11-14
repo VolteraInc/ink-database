@@ -4,8 +4,8 @@
   "organization": "Voltera",
   "useBy": "2024-01-29",
   "storage": "4°C – 10°C",
-  "description": "Standard solder paste for use with both pre­fabbed and V­-One-printed PCBs",
-  "label": { "type": "SOLDER PASTE", "color": "#ff770b" },
+  "description": "Standard T5 solder paste for use with both pre­fabbed and V­-One-printed PCBs. The smaller particle size (T5) improves dispensing and reduces nozzle clogging.  ",
+  "label": { "type": "SOLDER PASTE T5", "color": "#ff770b" },
   "heatingProfile": [
     { "temperature": 140, "duration": 45 },
     { "temperature": 190, "duration": 30 },
@@ -32,7 +32,7 @@
         "min": 0.01,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.14
+        "defaultValue": 0.08
       },
       "feedrate": { "min": 0, "max": 900, "precision": 0, "defaultValue": 600 },
       "passSpacing": {
@@ -47,14 +47,14 @@
         "precision": 1,
         "defaultValue": 0.1
       },
-      "kick": { "min": 0.05, "max": 2, "precision": 2, "defaultValue": 0.3 },
+      "kick": { "min": 0.05, "max": 2, "precision": 2, "defaultValue": 0.4 },
       "softStart": { "min": 0, "max": 1, "precision": 2, "defaultValue": 0.05 },
       "softStop": { "min": 0, "max": 1, "precision": 2, "defaultValue": 0.05 },
       "rheologicalSetpoint": {
         "min": 0,
         "max": 1,
         "precision": 2,
-        "defaultValue": 0.22
+        "defaultValue": 0.27
       }
     }
   }
