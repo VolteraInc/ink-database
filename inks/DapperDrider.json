@@ -9,7 +9,7 @@
   "label": { "type": "CONDUCTOR 3", "color": "#79ce00" },
   "heatingProfile": [
     { "temperature": 90, "duration": 300 },
-    { "temperature": 120, "duration": 900 },
+    { "temperature": 170, "duration": 900 },
     { "temperature": 120, "duration": 1 }
   ],
   "settings": {
