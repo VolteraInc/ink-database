@@ -1,99 +1,99 @@
 {
-    "type": "Conductive Ink",
-    "material":"Cond 3",
-    "name": "AffableAlien",
-    "organization": "Voltera",
-    "useBy": "2024-02-27",
-    "storage": "4°C – 10°C",
-    "description": "\n   Conductive silver ink for printing PCB traces and pads.\n   When soldering to this ink, use flux and the supplied Voltera solder.\n   Other solder alloys may cause silver scavenging.\n  ",
-    "label": {
-        "type": "CONDUCTOR 3",
-        "color": "#79ce00"
+  "type": "Conductive Ink",
+  "material": "Cond 3",
+  "name": "AffableAlien",
+  "organization": "Voltera",
+  "useBy": "2024-02-27",
+  "storage": "4°C – 10°C",
+  "description": "\n   Conductive silver ink for printing PCB traces and pads.\n   When soldering to this ink, use flux and the supplied Voltera solder.\n   Other solder alloys may cause silver scavenging.\n  ",
+  "label": {
+    "type": "CONDUCTOR 3",
+    "color": "#79ce00"
+  },
+  "heatingProfile": [
+    {
+      "temperature": 90,
+      "duration": 300
     },
-    "heatingProfile": [
-        {
-            "temperature": 90,
-            "duration": 300
-        },
-        {
-            "temperature": 120,
-            "duration": 900
-        },
-        {
-            "temperature": 120,
-            "duration": 1
-        }
-    ],
-    "settings": {
-        "probing": {
-            "probePitch": {
-                "min": 0.1,
-                "max": 10,
-                "precision": 1,
-                "defaultValue": 5
-            }
-        },
-        "dispensing": {
-            "trimLength": {
-                "min": 1,
-                "max": 9999,
-                "precision": 0,
-                "defaultValue": 50
-            },
-            "tracePadPenetration": {
-                "min": -5,
-                "max": 5,
-                "precision": 2,
-                "defaultValue": 0.15
-            },
-            "dispenseHeight": {
-                "min": 0.01,
-                "max": 1,
-                "precision": 2,
-                "defaultValue": 0.1
-            },
-            "feedrate": {
-                "min": 0,
-                "max": 600,
-                "precision": 0,
-                "defaultValue": 500
-            },
-            "passSpacing": {
-                "min": 0.1,
-                "max": 1,
-                "precision": 2,
-                "defaultValue": 0.15
-            },
-            "antiString": {
-                "min": 0.1,
-                "max": 5,
-                "precision": 1,
-                "defaultValue": 0.1
-            },
-            "kick": {
-                "min": 0.05,
-                "max": 2,
-                "precision": 2,
-                "defaultValue": 0.35
-            },
-            "softStart": {
-                "min": 0,
-                "max": 1,
-                "precision": 2,
-                "defaultValue": 0.1
-            },
-            "softStop": {
-                "min": 0,
-                "max": 1,
-                "precision": 2,
-                "defaultValue": 0.15
-            },
-            "rheologicalSetpoint": {
-                "min": 0,
-                "max": 1,
-                "precision": 2,
-                "defaultValue": 0.16
-            }
-        }
+    {
+      "temperature": 120,
+      "duration": 900
+    },
+    {
+      "temperature": 60,
+      "duration": 1
     }
+  ],
+  "settings": {
+    "probing": {
+      "probePitch": {
+        "min": 0.1,
+        "max": 10,
+        "precision": 1,
+        "defaultValue": 5
+      }
+    },
+    "dispensing": {
+      "trimLength": {
+        "min": 1,
+        "max": 9999,
+        "precision": 0,
+        "defaultValue": 50
+      },
+      "tracePadPenetration": {
+        "min": -5,
+        "max": 5,
+        "precision": 2,
+        "defaultValue": 0.15
+      },
+      "dispenseHeight": {
+        "min": 0.01,
+        "max": 1,
+        "precision": 2,
+        "defaultValue": 0.1
+      },
+      "feedrate": {
+        "min": 0,
+        "max": 600,
+        "precision": 0,
+        "defaultValue": 500
+      },
+      "passSpacing": {
+        "min": 0.1,
+        "max": 1,
+        "precision": 2,
+        "defaultValue": 0.15
+      },
+      "antiString": {
+        "min": 0.1,
+        "max": 5,
+        "precision": 1,
+        "defaultValue": 0.1
+      },
+      "kick": {
+        "min": 0.05,
+        "max": 2,
+        "precision": 2,
+        "defaultValue": 0.35
+      },
+      "softStart": {
+        "min": 0,
+        "max": 1,
+        "precision": 2,
+        "defaultValue": 0.1
+      },
+      "softStop": {
+        "min": 0,
+        "max": 1,
+        "precision": 2,
+        "defaultValue": 0.15
+      },
+      "rheologicalSetpoint": {
+        "min": 0,
+        "max": 1,
+        "precision": 2,
+        "defaultValue": 0.16
+      }
+    }
+  }
 }
