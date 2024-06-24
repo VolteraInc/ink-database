@@ -10,7 +10,7 @@
   "heatingProfile": [
     { "temperature": 90, "duration": 300 },
     { "temperature": 120, "duration": 900 },
-    { "temperature": 120, "duration": 1 }
+    { "temperature": 60, "duration": 1 }
   ],
   "settings": {
     "probing": {
